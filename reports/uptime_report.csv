@@ -1,0 +1,11 @@
+timestamp,url,http_status,latency_ms,status,uptime_percent
+2026-11-02T21:01:35-08:00,https://www.google.com,200,1104.52,UP,
+2026-11-02T21:01:36-08:00,https://www.github.com,200,1772.15,UP,
+2026-11-02T21:02:38-08:00,https://www.google.com,200,1054.7,UP,
+2026-11-02T21:02:39-08:00,https://www.github.com,200,1693.37,UP,
+2026-11-02T21:03:41-08:00,https://www.google.com,200,1018.98,UP,
+2026-11-02T21:03:42-08:00,https://www.github.com,200,1741.78,UP,
+2026-11-02T21:04:43-08:00,https://www.google.com,200,1089.15,UP,
+2026-11-02T21:04:44-08:00,https://www.github.com,200,1671.53,UP,
+2026-11-02T21:05:46-08:00,https://www.google.com,200,1017.47,UP,
+2026-11-02T21:05:47-08:00,https://www.github.com,200,1705.31,UP,
